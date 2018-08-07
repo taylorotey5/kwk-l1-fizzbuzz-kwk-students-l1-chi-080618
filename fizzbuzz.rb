@@ -1,4 +1,4 @@
 
-def fizzubzz()
+def fizzubzz(number)
 
 end
